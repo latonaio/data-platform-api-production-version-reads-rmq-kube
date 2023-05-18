@@ -1,0 +1,48 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": 101,
+	"service_label": "PRODUCTION_VERSION",
+	"api_type": "reads",
+	"ProductionVersion": {
+		"ProductionVersion": 250000001,
+		"Product": "",
+		"OwnerBusinessPartner": null,
+		"OwnerPlant": "",
+		"BillOfMaterial": null,
+		"Operations": null,
+		"ProductionVersionText": "",
+		"ProductionVersionStatus": "",
+		"ValidityStartDate": "",
+		"ValidityEndDate": "",
+		"CreationDate": "",
+		"LastChangeDate": "",
+		"IsLocked": null,
+		"IsMarkedForDeletion": null,
+		"Item": [
+			{
+				"ProductionVersionItem": null,
+				"Product": "",
+				"BusinessPartner": null,
+				"Plant": "",
+				"BillOfMaterial": null,
+				"Operations": null,
+				"ProductionVersionText": "",
+				"ProductionVersionStatus": "",
+				"ValidityStartDate": "",
+				"ValidityEndDate": "",
+				"CreationDate": "",
+				"LastChangeDate": "",
+				"IsLocked": null,
+				"IsMarkedForDeletion": null
+			}
+		]
+	},
+	"api_schema": "DPFMProductionVersionReads",
+	"accepter": ["Header"],
+	"deleted": false
+}

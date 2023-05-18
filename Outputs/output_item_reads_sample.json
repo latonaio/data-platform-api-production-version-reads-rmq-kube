@@ -1,0 +1,46 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": 101,
+	"service_label": "PRODUCTION_VERSION",
+	"api_type": "reads",
+	"message": {
+		"Header": null,
+		"Item": [
+			{
+				"ProductionVersion": 250000001,
+				"ProductionVersionItem": 1,
+				"Product": "A3750",
+				"BusinessPartner": 101,
+				"Plant": "AB01",
+				"BillOfMaterial": 280000000,
+				"Operations": 260000001,
+				"ProductionVersionText": null,
+				"ProductionVersionStatus": null,
+				"ValidityStartDate": "2000-01-01",
+				"ValidityEndDate": "9999-12-31",
+				"CreationDate": "2023-05-01",
+				"LastChangeDate": "2023-05-01",
+				"IsLocked": false,
+				"IsMarkedForDeletion": false
+			}
+		]
+	},
+	"api_schema": "DPFMProductionVersionReads",
+	"accepter": [
+		"Items"
+	],
+	"deleted": false,
+	"sql_update_result": null,
+	"sql_update_error": "",
+	"subfunc_result": null,
+	"subfunc_error": "",
+	"exconf_result": null,
+	"exconf_error": "",
+	"api_processing_result": true,
+	"api_processing_error": ""
+}
